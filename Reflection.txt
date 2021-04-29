@@ -1,0 +1,14 @@
+I/we declare that the attached assignment is my/our own work in accordance with Seneca
+Academic Policy. No part of this assignment has been copied manually or electronically from any
+other source (including web sites) or distributed to other students.
+
+Name(s) Mahshid Farrahinia  Student ID(s) 
+
+First of all I created a table named SportyCars in oracle database and inserted relevant data
+Then, I created a class to connect to my database and to create XML file from a table called Sporty cars in database.
+After that, when my java code gave me the XML file, I wrote the XSL file based on the rules which are mentioned in PDF java notes.
+First I implemented some style for the table. then,I wrote a for each to do looping in XML file and also I used value of to extract the value of selected node. 
+After which, I just run the XmlStylizer to get my HTML file.
+Then I created a class to read my XML file. I read a file and parse if with an event base interface called SAX.
+At the end I opened a note pad and create my json array and saved file as json and uploaded it on public folder in matrix account.
+Then, I created a class to read the json file from matrix.

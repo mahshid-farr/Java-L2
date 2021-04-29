@@ -1,0 +1,6 @@
+Task 4: Explain the concepts of XML Document Object Model and XML Schema?
+
+An XML document is an organized, labeled tree which Each node represent elements, attributes and text of tree and is located in an opening and closing tag.
+XML Document Object is a programming API for XML and HTML documents which provide us the ways to access and manipulate XML document.
+However, the XML Schema which known as XSD is a structure of An XML documents, is used to describe the content of an XML document.
+Some examples for XSD are dataTypes for elements and attributes, default and fixed values for elements and attributes, the number and order of elements
